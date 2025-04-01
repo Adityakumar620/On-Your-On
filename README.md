@@ -2,7 +2,7 @@
 
 # About the Project
 
-On Your Own is a web application similar to Airbnb, allowing users to list, discover, and book accommodations. The platform provides a seamless experience for hosts to manage their properties and for guests to find the perfect stay.
+On Your Own is a web application, allowing users to list, discover, and book accommodations. The platform provides a seamless experience for hosts to manage their properties and for guests to find the perfect stay.
 
 # Features
 
