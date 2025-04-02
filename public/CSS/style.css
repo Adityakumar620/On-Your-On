@@ -40,6 +40,10 @@ body{
     color: #222222;
 }
 
+.social{
+    color: #222222 !important;
+}
+
 .f-info-links:hover a{
     text-decoration: underline;
 }
